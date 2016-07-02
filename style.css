@@ -1,1 +1,7 @@
-
+body {max-width:660px;margin:0 auto;font-family:Open Sans;text-align:center;padding:5px;color:#222}
+img {max-width:95%;display:block;margin:0 auto}
+a {text-decoration:none;color: #446CB3}
+nav {font-weight:bold;border-bottom:1px solid grey;border-top:1px solid grey}
+nav a {margin-right:20px;color:#2c3e50}
+article {text-align:left;padding:5px 0 5px 0}
+footer {border-top:1px solid grey}
