@@ -2,8 +2,7 @@ body {max-width:660px;background-color:#E9EFF2;margin:0 auto;font-family:Raleway
 img {max-width:95%;display:block;margin:0 auto}
 a {text-decoration:none;color: #556270}
 header {background-color:#556270;}
-nav {background-color:#556270;}
+nav {background-color:#556270;padding-bottom:5px;}
 nav a {margin-right:20px;color:#E9EFF2}
 article {text-align:left;padding:10px 0 10px 0}
-footer {background-color:#556270}
-
+footer {background-color:#556270;color:#E9EFF2;}
