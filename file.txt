@@ -9,7 +9,9 @@
 	 PeaceNet * EcoNet * ConflictNet * LaborNet * WomensNet
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-		   How to get into Canada                             
+		   How to get into Canada   
+		   http://seadi.github.io/shop/file.html
+		   <a href="http://seadi.github.io/shop/file.html">aaa</a>
 								      
 Are you looking for the land of milk and honey, where you can have a  
 much better life without even working?  Then you are looking for      
